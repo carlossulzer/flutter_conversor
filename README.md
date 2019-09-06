@@ -1,16 +1,31 @@
-# conversor
+![](logotipo.png)
 
-A new Flutter project.
+### Carlos Sulzer Pêgo
+* sulzerpego@gmail.com
 
-## Getting Started
+## FLUTTER E DART
 
-This project is a starting point for a Flutter application.
+* Flutter - v1.7:
+* Dart - v2.4.0:
+* Estrutura do Projeto
+* Plugins
+* Hot Reload
+* Textos
+* StatelessWidget
+* StatefullWidget
+    - State
+* Widgets
+* FutureBuilder
 
-A few resources to get you started if this is your first Flutter project:
+### Links
+* [Flutter](https://flutter.dev) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* [Flutter Docs](https://flutter.dev/docs)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [Dart](https://dart.dev)
+
+* [Curso - Udemy (Pago)](https://www.udemy.com/curso-completo-flutter-app-android-ios)
+
+* [Curso de Flutter - André Baltieri (Grátis)](https://balta.io/cursos/7184)
+
+* [Comunidade Fluterando](https://forum.flutterando.com.br)
