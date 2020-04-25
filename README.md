@@ -5,8 +5,8 @@
 
 ## FLUTTER E DART
 
-* Flutter - v1.7:
-* Dart - v2.4.0:
+* Flutter - v1.12.13:
+* Dart - v2.7.2:
 * Estrutura do Projeto
 * Plugins
 * Hot Reload
