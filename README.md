@@ -9,7 +9,7 @@
 * Flutter - v1.12.13:
 * Dart - v2.7.2:
 * Estrutura do Projeto
-* Plugins
+* Packages - [Pacotes Adicionais](https://pub.dev/packages)
 * Hot Reload
 * Textos
 * StatelessWidget
