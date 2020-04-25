@@ -2,6 +2,7 @@
 
 ### Carlos Sulzer Pêgo
 * sulzerpego@gmail.com
+* Msc. Pesquisa Operacional e Inteligência Computacional
 
 ## FLUTTER E DART
 
